@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rodgers-tobiko
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning MERN stack,PHP-Laravel,MEAN stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on this email -getterandsetter1@gmail.com
 
 <!---
